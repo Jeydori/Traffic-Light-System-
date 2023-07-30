@@ -205,4 +205,4 @@ Next, upload this arduino sketch:
             }
 
 
-        
+Now that you are done with the simulation, it is time to check it. After that, you can now start to build your own traffic light system.   Upload the code in the arduino then build what we have simulated. Then you are done with this project. Note that if there is power outage, you can add an external voltage source and series the GND to the arduino:).     
