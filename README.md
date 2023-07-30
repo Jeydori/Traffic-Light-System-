@@ -27,7 +27,7 @@ Needed Components:
   7. 12x 220-470 ohm resistor
 
 <img width="146" alt="image" src="https://github.com/Jeydori/Traffic-Light-System-/assets/92672461/03585b92-4628-4a32-804e-b393a7cfe76b">
-    <img width="164" alt="image" src="https://github.com/Jeydori/Traffic-Light-System-/assets/92672461/6f3962cc-b209-46dd-8119-61ae915768ff">
+<img width="164" alt="image" src="https://github.com/Jeydori/Traffic-Light-System-/assets/92672461/6f3962cc-b209-46dd-8119-61ae915768ff">
     
   9. 1x breadboard
 
