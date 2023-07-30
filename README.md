@@ -35,11 +35,11 @@ Needed Components:
     
   11. 1x Arduino Uno
     
-    <img width="155" alt="image" src="https://github.com/Jeydori/Traffic-Light-System-/assets/92672461/f9d96fd5-1b0b-4dcd-8d0b-153073e97ef2">
+<img width="155" alt="image" src="https://github.com/Jeydori/Traffic-Light-System-/assets/92672461/f9d96fd5-1b0b-4dcd-8d0b-153073e97ef2">
     
   12. solid wires (for the actual system)
     
-    <img width="157" alt="image" src="https://github.com/Jeydori/Traffic-Light-System-/assets/92672461/da601f62-408f-4ad0-b803-cab4e41a524b">
+<img width="157" alt="image" src="https://github.com/Jeydori/Traffic-Light-System-/assets/92672461/da601f62-408f-4ad0-b803-cab4e41a524b">
     
 
 
