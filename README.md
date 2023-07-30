@@ -13,25 +13,32 @@ So, let's buckle up and embark on this exciting adventure of electronic simulati
 
 Needed Components:
   1. 4x Green LED
-    <img width="143" alt="image" src="https://github.com/Jeydori/Traffic-Light-System-/assets/92672461/e852af2b-a5f1-447f-acf7-3e2f014ff374">
+
+<img width="143" alt="image" src="https://github.com/Jeydori/Traffic-Light-System-/assets/92672461/e852af2b-a5f1-447f-acf7-3e2f014ff374">
     
-  2. 4x Red LED
-    <img width="126" alt="image" src="https://github.com/Jeydori/Traffic-Light-System-/assets/92672461/ccc6ecda-92f9-4c44-a98a-a56ea5e9c6bd">
+  3. 4x Red LED
+
+<img width="126" alt="image" src="https://github.com/Jeydori/Traffic-Light-System-/assets/92672461/ccc6ecda-92f9-4c44-a98a-a56ea5e9c6bd">
     
-  3. 4x Orange LED
-    <img width="89" alt="image" src="https://github.com/Jeydori/Traffic-Light-System-/assets/92672461/d47c89b9-1061-4dcc-8a23-8d3d0029aee6">
+  5. 4x Orange LED
+
+<img width="89" alt="image" src="https://github.com/Jeydori/Traffic-Light-System-/assets/92672461/d47c89b9-1061-4dcc-8a23-8d3d0029aee6">
     
-  4. 12x 220-470 ohm resistor
-    <img width="146" alt="image" src="https://github.com/Jeydori/Traffic-Light-System-/assets/92672461/03585b92-4628-4a32-804e-b393a7cfe76b">
+  7. 12x 220-470 ohm resistor
+
+<img width="146" alt="image" src="https://github.com/Jeydori/Traffic-Light-System-/assets/92672461/03585b92-4628-4a32-804e-b393a7cfe76b">
     <img width="164" alt="image" src="https://github.com/Jeydori/Traffic-Light-System-/assets/92672461/6f3962cc-b209-46dd-8119-61ae915768ff">
     
-  5. 1x breadboard
-    <img width="151" alt="image" src="https://github.com/Jeydori/Traffic-Light-System-/assets/92672461/c0a4a434-33dd-4376-9bdd-bbe15d2cf894">
+  9. 1x breadboard
+
+<img width="151" alt="image" src="https://github.com/Jeydori/Traffic-Light-System-/assets/92672461/c0a4a434-33dd-4376-9bdd-bbe15d2cf894">
     
-  6. 1x Arduino Uno
+  11. 1x Arduino Uno
+    
     <img width="155" alt="image" src="https://github.com/Jeydori/Traffic-Light-System-/assets/92672461/f9d96fd5-1b0b-4dcd-8d0b-153073e97ef2">
     
-  7. solid wires (for the actual system)
+  12. solid wires (for the actual system)
+    
     <img width="157" alt="image" src="https://github.com/Jeydori/Traffic-Light-System-/assets/92672461/da601f62-408f-4ad0-b803-cab4e41a524b">
     
 
